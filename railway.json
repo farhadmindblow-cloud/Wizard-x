@@ -1,10 +1,5 @@
 {
-  "build": {
-    "builder": "NIXPACKS"
-  },
   "deploy": {
-    "startCommand": "python twitter_bot.py",
-    "healthcheckPath": "/",
-    "restartPolicyType": "ON_FAILURE"
+    "startCommand": "python x.py"
   }
 }
