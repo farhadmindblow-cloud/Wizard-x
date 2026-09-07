@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "startCommand": "python x.py"
+    "startCommand": "python twitter_bot.py"
   }
 }
